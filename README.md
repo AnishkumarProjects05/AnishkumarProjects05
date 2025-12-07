@@ -84,13 +84,12 @@
 
   <hr style="border: 1px solid #eee; width: 100%; margin: 30px auto;">
   
-  <h3 style="color: #007ACC;">📈 My GitHub Stats</h3>
 
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishkumarprojects05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumarprojects05&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Anish Kumar R GitHub Stats" />
-  </p>
+  <h1>My Leetcode Stat</h1>
+  
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Anish_Kumar_2005?theme=dark&ext=heatmap)](https://leetcode.com/u/Anish_Kumar_2005/)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Anish_Kumar_2005)
   <br clear="left"/>
 
   <hr style="border: 1px solid #eee; width: 100%; margin: 30px auto;">

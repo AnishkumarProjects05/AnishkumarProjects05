@@ -146,9 +146,6 @@ public class Anish {
 ---
 
 ### 📬 Connect with Me
-
-
-
 <p align="left">
 <a href="mailto:anishrkumar2k5@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555&message=ANISHRKUMAR2K5@GMAIL.COM" />
@@ -177,35 +174,27 @@ public class Anish {
 
 <div align="center">
 
-![My GitHub Language Stats](mystat.jpg)
+![My GitHub Language Stats](mystats.jpg)
 
 </div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnishkumarProjects05&theme=tokyonight&utcOffset=5.5"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnishkumarProjects05&theme=tokyonight"/>
-
-</div>
-
----
 
 ### 🥧 Language Distribution
+
+
+<!--START_SECTION:waka-->
+| Language | Repos | Size |
+|---|---|---|
+| TypeScript | 5 repos | 36 KB |
+| HTML | 5 repos | 0.97 KB |
+| JavaScript | 2 repos | 8 KB |
+| Kotlin | 1 repo | 1.3 KB |
+| PHP | 1 repo | 0.27 KB |
+| Java | 1 repo | 0.006 KB |
+| Jupyter Notebook | 1 repo | 0.003 KB |
+<!--END_SECTION:waka-->
 
 <div align="center">
 
 > ⚡ *Charts below are based on actual repository language data*
 
 </div>
-
-<!--START_SECTION:waka-->
-| Language | Repos | Size |
-|---|---|---|
-| TypeScript | 5 repos | ~36 KB |
-| HTML | 5 repos | ~0.97 KB |
-| JavaScript | 2 repos | ~8 KB |
-| Kotlin | 1 repo | ~1.3 KB |
-| PHP | 1 repo | ~0.27 KB |
-| Java | 1 repo | ~0.006 KB |
-| Jupyter Notebook | 1 repo | ~0.003 KB |
-<!--END_SECTION:waka-->

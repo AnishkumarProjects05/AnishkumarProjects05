@@ -119,22 +119,7 @@ public class Anish {
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnishkumarProjects05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishkumarProjects05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishkumarProjects05&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ### 🏆 Achievements & Certifications
 
@@ -192,9 +177,7 @@ public class Anish {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnishkumarProjects05&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnishkumarProjects05&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnishkumarProjects05&theme=tokyonight"/>
+![My GitHub Language Stats](mystat.jpg)
 
 </div>
 

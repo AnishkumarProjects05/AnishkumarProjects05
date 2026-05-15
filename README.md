@@ -27,10 +27,11 @@ public class Anish {
 
 <br clear="right"/>
 
----
+
+
 
 ### 🛠️ Tech Stack
-
+<div align="center">
 <table>
   <tr>
     <td align="left"><b>Languages</b></td>
@@ -51,8 +52,8 @@ public class Anish {
 </table>
 
 ---
-
-### 🚀 Featured Projects
+</div>
+ 🚀 Featured Projects
 
 <table>
   <tr>
@@ -119,9 +120,9 @@ public class Anish {
 
 ---
 
-
-
 ### 🏆 Achievements & Certifications
+<div align="center">
+
 
 | 🥇 Hackathons & Contests | 📜 Certifications |
 |---|---|
@@ -132,7 +133,7 @@ public class Anish {
 | 🌟 **Top 16%** globally on LeetCode | Postman API Fundamental **Student Expert** |
 
 ---
-
+</div>
 ### 🧠 Core CS Competencies
 
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-9130e3?style=for-the-badge)
@@ -171,6 +172,11 @@ public class Anish {
 ---
 
 ### 📈 Profile Summary
+<div align="center">
+
+ ⚡ *Charts below are based on actual repository language data*
+
+</div>
 
 <div align="center">
 
@@ -180,7 +186,8 @@ public class Anish {
 
 ### 🥧 Language Distribution
 
-
+<div align="center">
+    
 <!--START_SECTION:waka-->
 | Language | Repos | Size |
 |---|---|---|
@@ -192,9 +199,5 @@ public class Anish {
 | Java | 1 repo | 0.006 KB |
 | Jupyter Notebook | 1 repo | 0.003 KB |
 <!--END_SECTION:waka-->
-
-<div align="center">
-
-> ⚡ *Charts below are based on actual repository language data*
-
 </div>
+

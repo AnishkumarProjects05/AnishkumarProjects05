@@ -1,55 +1,228 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Anish%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AnishkumarProjects05">
-    <img src="https://komarev.com/ghpvc/?username=AnishkumarProjects05&label=Profile%20views&color=00FFFF&style=flat-square" alt="AnishkumarProjects05's profile views" />
-  </a>
-</p>
-
-
-## 📌 About Me
-- A passionate Software Engineer from India, specializing in building robust, scalable web applications and tackling challenging problems.
-
-
-## 🧠 My Focus Areas
-- Backend Developer
-- Full Stack Developer
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/AnishkumarProjects05">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnishkumarProjects05&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="AnishkumarProjects05's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=AnishkumarProjects05&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="AnishkumarProjects05's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=AnishkumarProjects05&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anish Kumar's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AnishkumarProjects05&theme=highcontrast&radius=10" alt="AnishkumarProjects05's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="margin: 4px;" /></p><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /></p><p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/AnishkumarProjects05">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnishkumarProjects05&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/anish-kumar-2k5/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:anishrkumar2k5@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://anishkumarpov.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anish%20Kumar%20R&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20System%20Designer%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn" />
+
 </div>
 
+---
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### 👋 Hey, I'm Anish Kumar R
+
+```java
+public class Anish {
+    String role     = "CS Undergraduate @ Ramco Institute of Technology";
+    String focus    = "Backend Systems & Scalable Architecture";
+    String passion  = "DSA • System Design • Real-World Engineering";
+    boolean openTo  = true; // Internships & Collaborations
+
+    String[] currently = {
+        "📐 Designing concurrency-safe APIs",
+        "🔍 Cracking complex DSA problems",
+        "🚀 Building performant backend systems"
+    };
+}
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td align="left"><b>Languages</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,js,go" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Frameworks</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Database</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,supabase" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>DevOps</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,git" /></a></td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎟️ QR-Based Event Ticket Booking System</h3>
+      <p>Capacity-controlled event allocation with FIFO waitlist, concurrency-safe registration, and QR-based attendance via signed JWT tokens.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GoLang-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
+      <p>
+        ✅ 70% better concurrency handling<br/>
+        ✅ 100% duplicate check-in prevention<br/>
+        ✅ 50% reduction in no-show seat wastage
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Mock Interview & Resume Analyzer</h3>
+      <p>LLM-powered mock recruiter that conducts interviews, evaluates candidates, and provides automated feedback with smart job recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM-RESTful_API-blue?style=flat-square"/>
+      </p>
+      <p>
+        ✅ LLM-based resume matching<br/>
+        ✅ Automated feedback generation<br/>
+        ✅ Smart job recommendations
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📋 Real-Time On-Duty Monitoring System</h3>
+      <p>Web-based approval portal with Role-Based Access Control, automated email notifications, and real-time request tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML/CSS/JS-orange?style=flat-square"/>
+      </p>
+      <p>
+        ✅ 90% reduction in manual paperwork<br/>
+        ✅ 60% faster approval turnaround<br/>
+        ✅ Full RBAC implementation
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💼 @ HCLTech — Student Intern</h3>
+      <p>Java Full-Stack Development internship with hands-on JDBC, JUnit, Hibernate/ORM training. Solved 30+ daily Java challenges on internal platform.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=flat-square&logo=hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white"/>
+      </p>
+      <p>
+        📅 Jul 2025 – Aug 2025<br/>
+        📍 Madurai, India
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnishkumarProjects05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishkumarProjects05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishkumarProjects05&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 Achievements & Certifications
+
+| 🥇 Hackathons & Contests | 📜 Certifications |
+|---|---|
+| 🏆 Design Thinking Hackathon **Winner** | Mastering Backend Development — *Udemy* |
+| 🔥 Igniters'25 Code Contest **Finalist** | System Design Mastery — *Udemy* |
+| 📈 **315th Rank** — LeetCode Weekly Contest | Full Stack Developer — *Udemy* |
+| 📈 **250th Rank** — LeetCode Biweekly Contest | Google Cloud Study Jam — *Google Cloud* |
+| 🌟 **Top 16%** globally on LeetCode | Postman API Fundamental **Student Expert** |
+
+---
+
+### 🧠 Core CS Competencies
+
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-9130e3?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-00008b?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-006400?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Computer_Networks-008b8b?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-8b0000?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API_Design-dc143c?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD_&_DevOps-4b4b4b?style=for-the-badge)
+
+---
+
+### 📬 Connect with Me
+
+
+
+<p align="left">
+<a href="mailto:anishrkumar2k5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555&message=ANISHRKUMAR2K5@GMAIL.COM" />
+</a>
+<a href="https://linkedin.com/in/anish-kumar-2k5">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555&message=ANISH-KUMAR-2K5" />
+</a>
+<a href="https://github.com/AnishkumarProjects05">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555&message=ANISHKUMARPROJECTS05" />
+</a>
+<a href="https://leetcode.com/anish_kumar_2005">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555&message=ANISH_KUMAR_2005" />
+</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnishkumarProjects05&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
+
+*"Building systems that scale, solving problems that matter."*
+
+</div>
+---
+
+### 📈 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnishkumarProjects05&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnishkumarProjects05&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnishkumarProjects05&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnishkumarProjects05&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnishkumarProjects05&theme=tokyonight"/>
+
+</div>
+
+---
+
+### 🥧 Language Distribution
+
+<div align="center">
+
+> ⚡ *Charts below are based on actual repository language data*
+
+</div>
+
+<!--START_SECTION:waka-->
+| Language | Repos | Size |
+|---|---|---|
+| TypeScript | 5 repos | ~36 KB |
+| HTML | 5 repos | ~0.97 KB |
+| JavaScript | 2 repos | ~8 KB |
+| Kotlin | 1 repo | ~1.3 KB |
+| PHP | 1 repo | ~0.27 KB |
+| Java | 1 repo | ~0.006 KB |
+| Jupyter Notebook | 1 repo | ~0.003 KB |
+<!--END_SECTION:waka-->

@@ -47,7 +47,11 @@ public class Anish {
   </tr>
   <tr>
     <td align="left"><b>DevOps</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,git" /></a></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws" /></a></td>
+  </tr>
+    <tr>
+    <td align="left"><b>Testing</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jest,postman" /></a></td>
   </tr>
 </table>
 

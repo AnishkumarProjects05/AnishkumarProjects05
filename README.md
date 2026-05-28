@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 
 ### 👋 Hey, I'm Anish Kumar R
 

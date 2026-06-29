@@ -61,22 +61,8 @@ public class Anish {
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🎟️ QR-Based Event Ticket Booking System</h3>
-      <p>Capacity-controlled event allocation with FIFO waitlist, concurrency-safe registration, and QR-based attendance via signed JWT tokens.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GoLang-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-      <p>
-        ✅ 70% better concurrency handling<br/>
-        ✅ 100% duplicate check-in prevention<br/>
-        ✅ 50% reduction in no-show seat wastage
-      </p>
-    </td>
-    <td width="50%">
+    
+    <td width="100%">
       <h3>🤖 AI Mock Interview & Resume Analyzer</h3>
       <p>LLM-powered mock recruiter that conducts interviews, evaluates candidates, and provides automated feedback with smart job recommendations.</p>
       <p>

@@ -15,8 +15,9 @@ public class Anish {
     String role     = "CS Undergraduate @ Ramco Institute of Technology";
     String focus    = "Backend Systems & Scalable Architecture";
     String Knowledge  = "DSA • System Design • Real-World Engineering";
-    boolean openTo  = true; // Internships & Collaborations
     String passion = "CarreerConnect AI :An AI Mock Interview and Resume Analzyer
+    boolean openTo  = true; // Internships & Collaborations
+   
 
     String[] currently = {
         "📐 Designing concurrency-safe APIs",
